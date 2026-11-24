@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Inception on Google Cloud
 
 *A port of my [Inception](https://github.com/alcacere/inception) project (a containerized
@@ -56,6 +55,3 @@ make deploy      # deploy the images by digest
 make smoke       # run the end-to-end verification checks
 make destroy     # tear everything down (the cost safety net)
 ```
-=======
-# GCP-Inception
->>>>>>> a450fa40a5790d2e7a570478986d988d7ab59e8a
